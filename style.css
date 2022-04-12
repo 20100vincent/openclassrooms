@@ -1,0 +1,7 @@
+td {
+    border-collapse: collapse;
+    border: blue;
+}
+td:focus {
+    background-color: aquamarine;
+}
